@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3eda577-1cf3-41e8-93d5-553fa8ad971b" name="Default Changelist" comment="" />
+    <list default="true" id="b3eda577-1cf3-41e8-93d5-553fa8ad971b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/进程.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/进程.xmind" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
