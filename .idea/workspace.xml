@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:gitee" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3eda577-1cf3-41e8-93d5-553fa8ad971b" name="Default Changelist" comment="">
+    <list default="true" id="b3eda577-1cf3-41e8-93d5-553fa8ad971b" name="Default Changelist" comment="动手写jvm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,57 +32,64 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="gitee/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="D:/springsecurity/spring-security-master" value="PREVIEW" />
-        <entry key="E:/springsecuritysourcecode/spring-security" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="axpsfmLl" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="directoryName" value="HKCtnDCq" />
   </component>
   <component name="ProjectId" id="1RYEdEoiKXYFgTzqV1tu5Ly2KMg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576574969122" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -72,41 +102,66 @@
       <option name="presentableId" value="Default" />
       <updated>1569545916701</updated>
       <workItem from="1569545920202" duration="245000" />
+      <workItem from="1576574822441" duration="696000" />
+      <workItem from="1576661936393" duration="1257000" />
+      <workItem from="1576801629282" duration="595000" />
+      <workItem from="1592384704839" duration="861000" />
+      <workItem from="1592387479398" duration="733000" />
+      <workItem from="1592440807061" duration="599000" />
+      <workItem from="1596589602834" duration="16000" />
     </task>
+    <task id="LOCAL-00001" summary="博益考试">
+      <created>1576574899839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576574899839</updated>
+    </task>
+    <task id="LOCAL-00002" summary="博益考试">
+      <created>1576661958921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576661958921</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245000" />
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="博益考试" />
+    <MESSAGE value="动手写jvm" />
+    <MESSAGE value="忘记添加什么了" />
+    <MESSAGE value="dev中单元格选中" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev中单元格选中" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="695" y="43" key="CommitChangelistDialog2" timestamp="1576599611844">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="192" y="55" width="1172" height="985" key="CommitChangelistDialog2" timestamp="1592386396240">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="695" y="43" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1576599611844" />
-    <state x="689" y="264" key="Vcs.Push.Dialog.v2" timestamp="1576599615631">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="192" y="55" width="1172" height="985" key="CommitChangelistDialog2/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592386396240" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592386401221">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="264" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1576599615631" />
-    <state x="888" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576681086444">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592386401221" />
+    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596589607149">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="888" y="447" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040@0.0.2560.1040" timestamp="1576681086444" />
+    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1596589607149" />
   </component>
   <component name="masterDetails">
     <states>
